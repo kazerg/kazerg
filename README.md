@@ -33,7 +33,7 @@ Mi propósito: **proteger, formar y evolucionar**, línea a línea, bit a bit.
 ## 🤝 ¿Colaboramos?
 
 Estoy abierto a participar en proyectos, retos CTF y colaboraciones educativas.  
-¿Te interesa sumar fuerzas? Conecta conmigo por aquí o en [LinkedIn](https://www.linkedin.com/in/tu-perfil).
+¿Te interesa sumar fuerzas? Conecta conmigo por aquí o en [LinkedIn](https://www.linkedin.com/in/klaussreyes/).
 
 ---
 
