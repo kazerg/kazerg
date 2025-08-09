@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header.png)
 # 👨‍💻 Klauss Reyes Granados  
 ### 💣 Cybersecurity Analyst & Educator | Ethical Hacker | CTF Enthusiast  
 
